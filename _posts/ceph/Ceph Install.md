@@ -1,3 +1,11 @@
+---
+layout: post
+category : Ceph
+tagline: "Supporting tagline"
+tags : [Ceph, Document]
+---
+{% include JB/setup %}
+
 # Ceph Install Document
 
 Ceph是一个基于对象的分布式文件存储系统，我们将其用于Totem对象代理数据库管理系统的底层数据存储。
