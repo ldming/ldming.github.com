@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Ceph install document"
-description: "Ceph install document"
-category: Ceph
-tags: [ceph, document]
+title: "Ceph安装部署"
+description: "简单介绍Ceph文件系统的安装部署过程。"
+tags: [ceph]
 ---
 {% include JB/setup %}
 
