@@ -4,7 +4,7 @@ title: NiceDay
 ---
 {% include JB/setup %}
 
-## Recent Posts
+## 最近文章
 
 <ul class="posts">
   {% for post in site.posts %}
