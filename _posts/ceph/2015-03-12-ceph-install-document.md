@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ceph安装部署"
+title: "Ceph install document"
 description: "简单介绍Ceph文件系统的安装部署过程。"
 tags: [ceph]
 ---
