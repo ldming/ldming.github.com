@@ -2,7 +2,6 @@
 layout: page
 title: 关于
 header: 关于
-group: navigation
 ---
 {% include JB/setup %}
 

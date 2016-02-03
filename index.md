@@ -3,9 +3,10 @@ layout: page
 ---
 {% include JB/setup %}
 
-## 最近文章
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span>   <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+## `文章汇总`
+
+* [数据库](\_posts\database\_book\index.html)
+
+## [关于](about.md)
+
+
